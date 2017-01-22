@@ -1,5 +1,5 @@
 
-*Human Activity Recognition Using Smartphones Dataset*
+# Human Activity Recognition Using Smartphones Dataset
 
 All transformations of from raw data are described in Readme.MD
 Final output is a dataset that presents the average of each variable for each activity and each subject. 
